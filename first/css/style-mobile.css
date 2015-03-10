@@ -23,7 +23,9 @@
 }
 
 #header-image h1{
-margin: 0px 5%;
+    margin: 0px 0%;
+    padding: 0px 0px;
+    margin-bottom: -12px;
 }
 #menu {
   display:none;
@@ -251,6 +253,7 @@ p {
 	padding-left: 15px;
 	padding-right: 15px;
 }
-#dino{
-    color: white;
+div#page1 {
+    padding: 0px 0px;
+    padding-bottom: 0px;
 }
